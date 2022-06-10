@@ -3,4 +3,4 @@
 UX concept of a payments app built using Flutter.
 
 
-![iPAY](https://user-images.githubusercontent.com/72657275/141304788-02c9de11-081f-4b0d-bc2c-d9f615ca4017.png)
+![Ipay](https://user-images.githubusercontent.com/72657275/173111820-9703264f-02d9-4ddf-a0f3-aa2fd81c79d0.png)
